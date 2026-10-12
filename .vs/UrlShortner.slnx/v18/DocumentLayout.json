@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89446782-7516-BB8C-6690-13704EF59E23}|UrlShortner\\UrlShortner.csproj|c:\\users\\simon\\documents\\projeto\\c#\\urlshortner\\urlshortner\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89446782-7516-BB8C-6690-13704EF59E23}|UrlShortner\\UrlShortner.csproj|solutionrelative:urlshortner\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89446782-7516-BB8C-6690-13704EF59E23}|UrlShortner\\UrlShortner.csproj|c:\\users\\simon\\documents\\projeto\\c#\\urlshortner\\urlshortner\\controllers\\urlshorteningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89446782-7516-BB8C-6690-13704EF59E23}|UrlShortner\\UrlShortner.csproj|solutionrelative:urlshortner\\controllers\\urlshorteningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89446782-7516-BB8C-6690-13704EF59E23}|UrlShortner\\UrlShortner.csproj|c:\\users\\simon\\documents\\projeto\\c#\\urlshortner\\urlshortner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89446782-7516-BB8C-6690-13704EF59E23}|UrlShortner\\UrlShortner.csproj|solutionrelative:urlshortner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89446782-7516-BB8C-6690-13704EF59E23}|UrlShortner\\UrlShortner.csproj|c:\\users\\simon\\documents\\projeto\\c#\\urlshortner\\urlshortner\\entities\\shortenedurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89446782-7516-BB8C-6690-13704EF59E23}|UrlShortner\\UrlShortner.csproj|solutionrelative:urlshortner\\entities\\shortenedurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89446782-7516-BB8C-6690-13704EF59E23}|UrlShortner\\UrlShortner.csproj|c:\\users\\simon\\documents\\projeto\\c#\\urlshortner\\urlshortner\\services\\urlshorteningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89446782-7516-BB8C-6690-13704EF59E23}|UrlShortner\\UrlShortner.csproj|solutionrelative:urlshortner\\services\\urlshorteningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89446782-7516-BB8C-6690-13704EF59E23}|UrlShortner\\UrlShortner.csproj|c:\\users\\simon\\documents\\projeto\\c#\\urlshortner\\urlshortner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89446782-7516-BB8C-6690-13704EF59E23}|UrlShortner\\UrlShortner.csproj|solutionrelative:urlshortner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89446782-7516-BB8C-6690-13704EF59E23}|UrlShortner\\UrlShortner.csproj|c:\\users\\simon\\documents\\projeto\\c#\\urlshortner\\urlshortner\\requests\\shortenurlrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89446782-7516-BB8C-6690-13704EF59E23}|UrlShortner\\UrlShortner.csproj|solutionrelative:urlshortner\\requests\\shortenurlrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89446782-7516-BB8C-6690-13704EF59E23}|UrlShortner\\UrlShortner.csproj|c:\\users\\simon\\documents\\projeto\\c#\\urlshortner\\urlshortner\\shortlinksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89446782-7516-BB8C-6690-13704EF59E23}|UrlShortner\\UrlShortner.csproj|solutionrelative:urlshortner\\shortlinksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 937,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "UrlShortner\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\ApplicationDbContext.cs",
+              "RelativeToolTip": "UrlShortner\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T21:40:25.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\Program.cs",
+              "RelativeDocumentMoniker": "UrlShortner\\Program.cs",
+              "ToolTip": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\Program.cs",
+              "RelativeToolTip": "UrlShortner\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T19:30:45.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\appsettings.json",
+              "RelativeDocumentMoniker": "UrlShortner\\appsettings.json",
+              "ToolTip": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\appsettings.json",
+              "RelativeToolTip": "UrlShortner\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-12T19:32:24.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UrlShorteningController.cs",
+              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\Controllers\\UrlShorteningController.cs",
+              "RelativeDocumentMoniker": "UrlShortner\\Controllers\\UrlShorteningController.cs",
+              "ToolTip": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\Controllers\\UrlShorteningController.cs",
+              "RelativeToolTip": "UrlShortner\\Controllers\\UrlShorteningController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T02:33:42.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShortenUrlRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\Requests\\ShortenUrlRequest.cs",
+              "RelativeDocumentMoniker": "UrlShortner\\Requests\\ShortenUrlRequest.cs",
+              "ToolTip": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\Requests\\ShortenUrlRequest.cs",
+              "RelativeToolTip": "UrlShortner\\Requests\\ShortenUrlRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T19:08:21.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UrlShorteningService.cs",
+              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\Services\\UrlShorteningService.cs",
+              "RelativeDocumentMoniker": "UrlShortner\\Services\\UrlShorteningService.cs",
+              "ToolTip": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\Services\\UrlShorteningService.cs",
+              "RelativeToolTip": "UrlShortner\\Services\\UrlShorteningService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T19:43:08.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShortenedUrl.cs",
+              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\Entities\\ShortenedUrl.cs",
+              "RelativeDocumentMoniker": "UrlShortner\\Entities\\ShortenedUrl.cs",
+              "ToolTip": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\Entities\\ShortenedUrl.cs",
+              "RelativeToolTip": "UrlShortner\\Entities\\ShortenedUrl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T17:32:57.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShortLinkSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\ShortLinkSettings.cs",
+              "RelativeDocumentMoniker": "UrlShortner\\ShortLinkSettings.cs",
+              "ToolTip": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\ShortLinkSettings.cs",
+              "RelativeToolTip": "UrlShortner\\ShortLinkSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T17:46:00.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 514,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
