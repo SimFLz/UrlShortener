@@ -17,6 +17,29 @@ namespace UrlShortner.Migrations
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "10.0.12");
 
+            modelBuilder.Entity("UrlShortner.Entities.Click", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("TEXT");
+
+                    b.Property<DateTime>("ClickedOnUtc")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Referer")
+                        .HasColumnType("TEXT");
+
+                    b.Property<Guid>("ShortenedUrlId")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("UserAgent")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Clicks");
+                });
+
             modelBuilder.Entity("UrlShortner.Entities.ShortenedUrl", b =>
                 {
                     b.Property<Guid>("Id")
@@ -32,10 +55,6 @@ namespace UrlShortner.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<string>("LongUrl")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
-
-                    b.Property<string>("ShortUrl")
                         .IsRequired()
                         .HasColumnType("TEXT");
 

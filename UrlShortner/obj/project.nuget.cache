@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DX+JYRmij9A=",
+  "dgSpecHash": "3vTKCBfGQC8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\UrlShortner.csproj",
+  "projectFilePath": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\UrlShortener.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Simon\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Simon\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",

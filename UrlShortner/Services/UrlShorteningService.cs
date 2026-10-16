@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 namespace UrlShortner.Services;
 
 public class UrlShorteningService(ApplicationDbContext dbContext)

@@ -17,8 +17,34 @@
   },
   {
     "ContainingType": "UrlShortner.Controllers.UrlShorteningController",
+    "Method": "GetClickStats",
+    "RelativePath": "clicks/{code}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UrlShortner.Controllers.UrlShorteningController",
+    "Method": "GetAllShortenedUrls",
+    "RelativePath": "link/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UrlShortner.Controllers.UrlShorteningController",
     "Method": "ShortenUrl",
-    "RelativePath": "shorten",
+    "RelativePath": "link/create",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

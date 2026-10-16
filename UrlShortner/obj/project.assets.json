@@ -2503,9 +2503,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\UrlShortner.csproj",
-      "projectName": "UrlShortner",
-      "projectPath": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\UrlShortner.csproj",
+      "projectUniqueName": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\UrlShortener.Api.csproj",
+      "projectName": "UrlShortener.Api",
+      "projectPath": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\UrlShortener.Api.csproj",
       "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\UrlShortner\\UrlShortner\\obj\\",
       "projectStyle": "PackageReference",

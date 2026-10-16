@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-
+using UrlShortner.Entities;
 namespace UrlShortner;
 
 public class ApplicationDbContext : DbContext
@@ -7,8 +7,8 @@ public class ApplicationDbContext : DbContext
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
     {
     }
-    public DbSet<Entities.ShortenedUrl> ShortenedUrls { get; set; } = null!;
-
+    public DbSet<ShortenedUrl> ShortenedUrls { get; set; } = null!;
+    public DbSet<Click> Clicks { get; set; } = null!;
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Entities.ShortenedUrl>(builder =>
